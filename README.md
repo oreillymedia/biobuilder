@@ -1,7 +1,7 @@
 BioBuilder
 ==========
 
-This is the example code that accompanies BioBuilder by Natalie Kuldell PhD., Rachel Bernstein, Karen Ingram, Kathryn M Hart (9781491904299). 
+This is the figures that accompany BioBuilder by Natalie Kuldell PhD., Rachel Bernstein, Karen Ingram, Kathryn M Hart (9781491904299). 
 
 Click the Download Zip button to the right to download example code.
 
